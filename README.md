@@ -89,6 +89,7 @@ weather-data-interpolation
 │-- README.md  
 │-- requirements.txt  
 │-- .gitignore  
+|-- .gitattributes
 │-- LICENSE  
 ```
 
