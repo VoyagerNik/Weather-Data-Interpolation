@@ -16,10 +16,6 @@ venv/
 env/
 *.venv
 
-# Ignore dataset files (if needed)
-data/*.csv
-data/*.xlsx
-
 # Ignore logs and outputs
 logs/
 *.log
